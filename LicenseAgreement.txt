@@ -1,0 +1,39 @@
+PLEASE READ THIS LICENSE AGREEMENT ("AGREEMENT") CAREFULLY BEFORE INSTALLING OR USING THE SOFTWARE. BY INSTALLING OR USING THIS SOFTWARE, YOU ("USER") AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THESE TERMS, DO NOT INSTALL OR USE THE SOFTWARE AND IMMEDIATELY DELETE ANY COPIES OF THE SOFTWARE IN YOUR POSSESSION.
+
+This License Agreement ("Agreement") is a legal agreement between you (either an individual or a single entity) and Stelaminds LLC ("Company"), a company based in New York, United States, for the software product ("Software") provided by the Company. This Agreement governs your use of the Software.
+
+1. LICENSE GRANT Stelaminds LLC grants you a non-exclusive, non-transferable, revocable license to use the Software strictly in accordance with the terms of this Agreement. This license is for the sole purpose of enabling you to use and enjoy the benefit of the Software as provided by Stelaminds LLC in the manner permitted by this Agreement.
+
+2. COMPLIANCE WITH LAWS You agree to use the Software only for purposes that are permitted by this Agreement and any applicable law, regulation, or generally accepted practices or guidelines in relevant jurisdictions, including but not limited to the General Data Protection Regulation (GDPR) and other privacy laws.
+
+3. USER RESPONSIBILITIES
+
+Data and Privacy Compliance: You are solely responsible for ensuring that your use of the Software complies with all applicable privacy laws, including but not limited to GDPR. Stelaminds LLC disclaims any responsibility for your compliance with such laws.
+
+Email Account Access: The Software logs into your email accounts and assists in drafting and sending emails. You are responsible for ensuring that you have the legal right to access and use these email accounts in connection with the Software.
+
+No Unlawful or Prohibited Use: You agree not to use the Software for any purpose that is unlawful or prohibited by this Agreement.
+
+4. DISCLAIMER OF WARRANTIES THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, STELAMINDS LLC DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AND ANY WARRANTIES ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE.
+
+5. LIMITATION OF LIABILITY IN NO EVENT SHALL STELAMINDS LLC, ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, CONSULTANTS, OR AFFILIATES BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES WHATSOEVER, INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, LOSS OF DATA, OR OTHER INTANGIBLE LOSSES, ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF STELAMINDS LLC HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+6. NO GUARANTEE OF PERFORMANCE STELAMINDS LLC DOES NOT GUARANTEE THAT THE SOFTWARE WILL OPERATE ERROR-FREE, THAT IT WILL BE FREE FROM VIRUSES OR OTHER HARMFUL COMPONENTS, OR THAT ANY DEFECTS WILL BE CORRECTED. YOU ACKNOWLEDGE THAT THE SOFTWARE MAY CONTAIN BUGS, ERRORS, AND DEFECTS.
+
+7. NO SUPPORT OBLIGATION Stelaminds LLC is under no obligation to provide any support, maintenance, updates, or enhancements for the Software. Any support provided by Stelaminds LLC is provided at its sole discretion and may be subject to additional fees.
+
+8. INDEMNIFICATION You agree to indemnify, defend, and hold harmless Stelaminds LLC, its officers, directors, employees, agents, consultants, and affiliates from and against any and all claims, damages, losses, liabilities, costs, and expenses (including attorneys' fees) arising out of or related to your use of the Software, your violation of this Agreement, or your violation of any rights of a third party.
+
+9. REFUND POLICY You may cancel your use of the Software within 30 days of purchase for a full refund. To request a refund, you must contact Stelaminds LLC within this 30-day period. Refunds are not available after the 30-day period.
+
+10. TERMINATION This Agreement is effective until terminated by either party. Your rights under this Agreement will terminate automatically without notice from Stelaminds LLC if you fail to comply with any term(s) of this Agreement. Upon termination, you must immediately cease all use of the Software and delete all copies in your possession.
+
+11. GOVERNING LAW AND JURISDICTION This Agreement shall be governed by and construed in accordance with the laws of the State of New York, United States, without regard to its conflict of laws principles. Any legal action or proceeding arising under this Agreement will be brought exclusively in the federal or state courts located in Monroe County, New York, and you hereby consent to the personal jurisdiction and venue therein.
+
+12. ENTIRE AGREEMENT This Agreement constitutes the entire agreement between you and Stelaminds LLC concerning the Software and supersedes all prior or contemporaneous oral or written communications, proposals, and representations with respect to the Software or any other subject matter covered by this Agreement.
+
+13. SEVERABILITY If any provision of this Agreement is found to be invalid or unenforceable, the remainder of the Agreement shall remain in full force and effect, and the invalid or unenforceable provision shall be deemed modified so that it is valid and enforceable to the maximum extent permitted by law.
+
+14. WAIVER No waiver of any term of this Agreement shall be deemed a further or continuing waiver of such term or any other term, and Stelaminds LLC's failure to assert any right or provision under this Agreement shall not constitute a waiver of such right or provision.
+
+By using or installing the Software, you acknowledge that you have read, understood, and agree to be bound by the terms of this License Agreement.
