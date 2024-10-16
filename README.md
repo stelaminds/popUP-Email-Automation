@@ -25,7 +25,7 @@ Usage
 
 Requirements
 •	Python 3.7 or higher
-•	Microsoft Outlook Desktop or Gmail
+•	Microsoft Outlook Desktop, Microsoft 365 Webmail or Gmail
 •	Microsoft Windows 11
 
 
